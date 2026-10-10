@@ -1,0 +1,19 @@
+[package]
+name = "deckcraft-cli"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "DeckCraft on the command line: render, convert, run commands, inspect, and serve MCP"
+publish = false
+
+[lints]
+workspace = true
+
+[[bin]]
+name = "deckcraft-cli"
+path = "src/main.rs"
+
+[dependencies]
+deckcraft-engine = { workspace = true }
+deckcraft-mcp = { workspace = true }
+serde_json = { workspace = true }
