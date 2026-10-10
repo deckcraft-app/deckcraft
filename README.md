@@ -27,6 +27,10 @@
   <img alt="Platforms" src="https://img.shields.io/badge/platforms-macOS%20·%20Windows%20·%20Linux%20·%20BSD%20·%20Web-555?style=flat-square">
 </p>
 
+<p align="center">
+  <img alt="DeckCraft editing a slide: ribbon, slide thumbnails with sections, a process diagram on the canvas, notes and status bar" src="docs/images/editor.png" width="900">
+</p>
+
 ## What works today
 
 DeckCraft is in early development, heading for its first alpha.
